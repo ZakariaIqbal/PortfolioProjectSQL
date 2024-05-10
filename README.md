@@ -1,6 +1,3 @@
-Here's a LinkedIn post based on your SQL project:
-
----
 
 📊 **Covid-19 Data Exploration: Unveiling Insights Through SQL**
 
